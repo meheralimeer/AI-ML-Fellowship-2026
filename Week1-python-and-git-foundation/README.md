@@ -20,6 +20,15 @@ Advanced Python concepts:
 - List and Dictionary comprehensions
 - Time and space complexity basics
 
+### Task 3 - Object-Oriented & Advanced Python
+OOP and advanced features:
+- Classes & Objects
+- Encapsulation, Inheritance, Polymorphism
+- Magic methods (`__init__`, `__str__`)
+- Decorators (execution time, logging, memoization)
+- Iterators & Generators
+- Debugging with pdb
+
 ## Structure
 ```
 Week1/
@@ -37,6 +46,11 @@ Week1/
     ├── student_records.py
     ├── data_op.py
     └── README.md
+└── Task3/           # OOP & advanced Python
+    ├── bank_account.py
+    ├── decorators.py
+    ├── generators.py
+    └── README.md
 ```
 
 ## Concepts Covered
@@ -46,6 +60,9 @@ Week1/
 - Exception handling
 - Data structures and algorithms
 - Code organization and modularity
+- Git version control
+- Object-oriented programming
+- Decorators and generators
 - Git version control
 
 ## Author
