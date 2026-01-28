@@ -17,12 +17,21 @@ Repository for AI/ML Fellowship program tasks and projects.
 - Data structures and comprehensions
 - Algorithm complexity
 
+**Task 3**: Object-Oriented & Advanced Python
+- OOP concepts (Classes, Inheritance, Polymorphism)
+- Encapsulation and magic methods
+- Custom decorators
+- Iterators & Generators
+- Debugging techniques
+
+
 ## Repository Structure
 ```
 .
 ├── Week1/
 │   ├── Task1/          # Python basics
 │   ├── Task2/          # Modular Python & data handling
+│   ├── Task3/          # OOP & advanced Python
 │   └── README.md
 └── README.md           # This file
 ```
@@ -42,5 +51,6 @@ GDGOC COMSATS Attock
 ## Progress Tracking
 - [x] Week 1 - Task 1: Python Basics
 - [x] Week 1 - Task 2: Modular Python & Data Handling
+- [x] Week 1 - Task 3: OOP & Advanced Python
 
 ---
