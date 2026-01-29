@@ -24,6 +24,11 @@ Repository for AI/ML Fellowship program tasks and projects.
 - Iterators & Generators
 - Debugging techniques
 
+**Task 4**: Modular Programming, Packaging, and Production Readiness
+- Modular programming
+- Virtual environments
+- Custom Python packages
+
 
 ## Repository Structure
 ```
@@ -32,6 +37,7 @@ Repository for AI/ML Fellowship program tasks and projects.
 │   ├── Task1/          # Python basics
 │   ├── Task2/          # Modular Python & data handling
 │   ├── Task3/          # OOP & advanced Python
+│   ├── Task4/          # Modular Programming, Packaging, and Production Readiness
 │   └── README.md
 └── README.md           # This file
 ```
@@ -52,5 +58,6 @@ GDGOC COMSATS Attock
 - [x] Week 1 - Task 1: Python Basics
 - [x] Week 1 - Task 2: Modular Python & Data Handling
 - [x] Week 1 - Task 3: OOP & Advanced Python
+- [x] Week 1 - Task 4: Modular Programming, Packaging, and Production Readiness
 
 ---

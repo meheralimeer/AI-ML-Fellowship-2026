@@ -29,6 +29,11 @@ OOP and advanced features:
 - Iterators & Generators
 - Debugging with pdb
 
+### Task 4 - Libraries, Packaging, Documentation & Production Readiness
+- Modular programming
+- Virtual environments
+- Custom Python packages
+
 ## Structure
 ```
 Week1/
@@ -51,6 +56,18 @@ Week1/
     ├── decorators.py
     ├── generators.py
     └── README.md
+└── Task4/           # Modular Programming, Packaging, and Production Readiness
+    ├── main.py
+    ├── modules/
+    │   ├── __init__.py
+    │   ├── factorial.py
+    │   └── string_reverse.py
+    ├── mypackage/
+    │   ├── setup.py
+    │   └── simple_calculator/
+    │       ├── __init__.py
+    │       └── arithmetic.py
+    └── README.md
 ```
 
 ## Concepts Covered
@@ -63,6 +80,9 @@ Week1/
 - Git version control
 - Object-oriented programming
 - Decorators and generators
+- Modular programming
+- Virtual environments
+- Python packaging
 - Git version control
 
 ## Author
