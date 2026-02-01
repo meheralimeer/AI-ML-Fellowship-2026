@@ -34,6 +34,11 @@ OOP and advanced features:
 - Virtual environments
 - Custom Python packages
 
+### Task 5 - Streamlit Mini-Project
+- Building a real-world Python project with Streamlit
+- UI development with Streamlit widgets
+- Application deployment fundamentals
+
 ## Structure
 ```
 Week1/
@@ -68,6 +73,11 @@ Week1/
     │       ├── __init__.py
     │       └── arithmetic.py
     └── README.md
+└── Task5/           # Streamlit mini-project
+    ├── src/
+    │   └── app.py
+    ├── requirements.txt
+    └── README.md
 ```
 
 ## Concepts Covered
@@ -83,6 +93,7 @@ Week1/
 - Modular programming
 - Virtual environments
 - Python packaging
+- Streamlit for web app development
 - Git version control
 
 ## Author

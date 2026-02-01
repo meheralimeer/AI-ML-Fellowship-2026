@@ -29,6 +29,11 @@ Repository for AI/ML Fellowship program tasks and projects.
 - Virtual environments
 - Custom Python packages
 
+**Task 5**: Mini End-to-End Python Project
+- Building a real-world Python project
+- Introduction to Streamlit for UI
+- Project planning, implementation, and deployment
+
 
 ## Repository Structure
 ```
@@ -38,6 +43,7 @@ Repository for AI/ML Fellowship program tasks and projects.
 │   ├── Task2/          # Modular Python & data handling
 │   ├── Task3/          # OOP & advanced Python
 │   ├── Task4/          # Modular Programming, Packaging, and Production Readiness
+│   ├── Task5/          # Streamlit mini-project
 │   └── README.md
 └── README.md           # This file
 ```
@@ -59,5 +65,6 @@ GDGOC COMSATS Attock
 - [x] Week 1 - Task 2: Modular Python & Data Handling
 - [x] Week 1 - Task 3: OOP & Advanced Python
 - [x] Week 1 - Task 4: Modular Programming, Packaging, and Production Readiness
+- [x] Week 1 - Task 5: Streamlit Mini-Project
 
 ---
